@@ -1,2 +1,2 @@
-=== WordPress Post Contributors ===
+=== WordPress Contributors ===
 Contributors: Naveen Giri
